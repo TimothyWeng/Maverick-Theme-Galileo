@@ -19,21 +19,21 @@
       "src": "fontawesome"
     },
     {
-      "uid": "87276033a77d0b9b890125c3639e4f87",
-      "css": "slack",
-      "code": 61848,
+      "uid": "4743b088aa95d6f3b6b990e770d3b647",
+      "css": "facebook",
+      "code": 62216,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "531359183f9fedb14b23666f1308591f",
+      "css": "telegram",
+      "code": 62150,
       "src": "fontawesome"
     },
     {
       "uid": "627abcdb627cb1789e009c08e2678ef9",
       "css": "twitter",
       "code": 61593,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "9854b94688e31450fc76aae4c2a45dff",
-      "css": "weibo",
-      "code": 61834,
       "src": "fontawesome"
     }
   ]
